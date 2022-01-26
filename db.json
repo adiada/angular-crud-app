@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "This is a fresh macedonian apple",
+      "date": "2022-01-11T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "orange",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 80,
+      "comment": "Fresh nagpur oranges",
+      "date": "2022-01-13T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "asda",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 12312,
+      "comment": "adasd",
+      "date": "2022-01-12T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
